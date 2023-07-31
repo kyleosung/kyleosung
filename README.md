@@ -2,8 +2,9 @@
 
 ## About Me
 - 🔭 **I’m currently working on:**
-  - A datasci project in the Department of Chemistry and Chemical Biology, modelling charging of Li-ion batteries with machine learning. This repo is currently private, please contact for questions!
+  - A datasci project in the Department of Chemistry and Chemical Biology, modelling charging of Li-ion batteries with machine learning. 
   - App development in Java with one of my friends
+  - My repos are currently private, please contact for questions!
 
 - 🌱 **I’m currently learning:**
   - Machine learning in Python
