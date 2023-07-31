@@ -4,7 +4,11 @@
 - 🔭 **I’m currently working on:**
   - A datasci project in the Department of Chemistry and Chemical Biology, modelling charging of Li-ion batteries with machine learning. This repo is currently private, please contact for questions!
   - App development in Java with one of my friends
-- 🌱 **I’m currently learning:** Machine learning in Python, front-end in HTML and CSS
+
+- 🌱 **I’m currently learning:**
+  - Machine learning in Python
+  - Front-end in HTML and CSS
+  - App Development in Java
 
 <!--
 ## Projects
