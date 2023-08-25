@@ -2,14 +2,14 @@
 
 ## About Me
 - 🔭 **I’m currently working on:**
-  - A datasci project in the Department of Chemistry and Chemical Biology, modelling charging of Li-ion batteries with machine learning. 
-  - App development in Java with one of my friends
+  - A datasci project in the Department of Chemistry and Chemical Biology, modelling charging of Li-ion batteries with machine learning.
+  - Training an app to predict digits drawn on images
   - My repos are currently private, please contact for questions!
 
 - 🌱 **I’m currently learning:**
-  - Machine learning in Python
+  - Machine learning in Python (current interests: SINDy in ``pysindy``, Neural Networks in ``torch``, Gaussian Processes in ``sklearn`` and ``GPy``)
   - Front-end in HTML and CSS
-  - App Development in Java
+
 
 <!--
 ## Projects
