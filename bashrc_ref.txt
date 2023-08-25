@@ -1,0 +1,29 @@
+#!/bin/bash
+
+echo "Pulling from kyleosung.github.io"
+cd /c/Users/kyle/OneDrive/Programs/kyleosung.github.io
+git pull
+
+echo
+
+echo "Pulling from kyleosung"
+cd /c/Users/kyle/OneDrive/Programs/kyleosung
+git pull
+
+echo
+
+echo "Pulling from stats2DA3"
+cd /c/Users/kyle/OneDrive/Programs/stats2DA3
+git pull
+
+echo
+
+echo "Pulling from image_recognizer"
+cd /c/Users/kyle/OneDrive/Programs/image_recognizer
+git pull
+
+echo
+
+echo "Pulling from Li-ion_battery_research"
+cd /c/Users/kyle/OneDrive/Programs/Li_batteries/Li-ion_battery_research
+git pull
