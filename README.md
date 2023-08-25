@@ -7,7 +7,10 @@
   - My repos are currently private, please contact for questions!
 
 - 🌱 **I’m currently learning:**
-  - Machine learning in Python (current interests: SINDy in ``pysindy``, Neural Networks in ``torch``, Gaussian Processes in ``sklearn`` and ``GPy``)
+  - Machine learning in Python (current interests:
+    - SINDy in ``pysindy``
+    - Neural Networks in ``torch``
+    - Gaussian Processes in ``sklearn`` and ``GPy``)
   - Front-end in HTML and CSS
 
 
