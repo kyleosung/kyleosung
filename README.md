@@ -28,10 +28,14 @@ Feel free to explore my repositories to see more of my work!
 -->
 
 
+## Website
+
+Feel free to check out [https://kyleosung.github.io/] for more info!
+
 
 
 ## Thank You
-Thank you for visiting my GitHub profile! I am continually learning and striving to improve my skills, so I would appreciate any feedback or suggestions on my projects. Feel free to star and fork repositories if you find anything interesting. Happy coding!
+Thank you for visiting my GitHub profile! I strive to learn and improve my skills and would appreciate any feedback or suggestions on my projects. Feel free to star and fork repositories if you find anything interesting. Happy coding!
 
 
 
