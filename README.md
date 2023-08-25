@@ -30,7 +30,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Website
 
-Feel free to check out [https://kyleosung.github.io/] for more info!
+Feel free to check out https://kyleosung.github.io/ for more info!
 
 
 
