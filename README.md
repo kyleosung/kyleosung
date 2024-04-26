@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey👋! Welcome to my GitHub.
 
-<!--
-**kyleosung/kyleosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 **I’m currently working on:**
+  - Learning and researching machine learning in various applications
+    - A project in the Math and Stats Department about theoretical machine learning
+    - Training a Chess AI using a ensemble of learners comprised of a convolutional neural network and other weak supervised learners 
+    - Training an app to predict digits drawn on images
+  - My repos are currently private, please contact for questions!
 
-Here are some ideas to get you started:
+- 🌱 **I’m currently learning:**
+  - Machine learning in Python (current interests:
+    - Neural Networks in ``torch`` including Deep Learning and Reinforcement Learning
+    - Classical Statistical Learning including Random Forests
+  - Front-end in HTML and CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Website
+
+Feel free to check out https://kyleosung.github.io/ for more info!
+
+
+
+## Thank You
+Thanks for checking out my GitHub! I'm striving to hone my skills, would appreciate any feedback or suggestions. Feel free to star and fork if you find anything interesting. Happy coding!
