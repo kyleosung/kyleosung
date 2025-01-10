@@ -9,7 +9,7 @@
 
 - 🌱 **I’m currently learning:**
   - Machine learning in Python
-    - Neural Networks in ``torch`` including Deep Learning and Reinforcement Learning
+    - Neural Networks in ``torch`` including Deep Learning
     - Classical Statistical Learning including Random Forests
   - Front-end in HTML and CSS
 
